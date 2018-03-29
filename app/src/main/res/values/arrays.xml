@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="colorList">
-        <item>Red</item>
-        <item>Pink</item>
-        <item>Purple</item>
-        <item>Deep Purple</item>
-        <item>Indigo</item>
-        <item>Blue</item>
-        <item>Light Blue</item>
-        <item>Cyan</item>
-        <item>Teal</item>
-        <item>Green</item>
-        <item>Light Green</item>
-        <item>Lime</item>
-        <item>Yellow</item>
-        <item>Amber</item>
-        <item>Orange</item>
-        <item>Deep Orange</item>
-        <item>Brown</item>
-        <item>Grey</item>
-        <item>Blue Grey</item>
+        <item>قرمز</item>
+        <item>صورتی</item>
+        <item>بنفش</item>
+        <item>بنفش تیره</item>
+        <item>آبی تیره</item>
+        <item>آبی</item>
+        <item>آبی روشن</item>
+        <item>فیروزه ای</item>
+        <item>تیله</item>
+        <item>سبز</item>
+        <item>سبز روشن</item>
+        <item>سبز چمنی</item>
+        <item>زرد</item>
+        <item>کهربایی</item>
+        <item>نارنجی</item>
+        <item>نارنجی تیره</item>
+        <item>قهوه ای</item>
+        <item>خاکستری</item>
+        <item>آبی خاکستری</item>
     </string-array>
 
     <string-array name="colorListColors">

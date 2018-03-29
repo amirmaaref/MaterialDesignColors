@@ -251,10 +251,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 intent.setClass(this, AboutActivity.class);
                 startActivity(intent);
                 break;
-            case R.id.nav_donate:
-                intent.setClass(this, DonateActivity.class);
-                startActivity(intent);
-                break;
 
             case R.id.nav_md:
                 if (AppUtils.checkAppInstalled(this, Constant.MATERIAL_DESIGN_DEMO_PACKAGE)) {

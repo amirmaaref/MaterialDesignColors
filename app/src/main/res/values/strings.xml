@@ -1,74 +1,74 @@
 <resources>
-    <string name="app_name">Color</string>
+    <string name="app_name">Material Colors</string>
     <string name="app_full_name">Material Design Color</string>
-    <string name="app_designed_by">Designed by Eajy in China</string>
+    <string name="app_designed_by">توسعه و ترجمه توسط امیرحسین</string>
 
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">باز کردن منو</string>
+    <string name="navigation_drawer_close">بستن منو</string>
 
-    <string name="nav_explain">About Color</string>
-    <string name="nav_website">Material Color Website</string>
-    <string name="nav_my_apps">My Apps</string>
-    <string name="nav_md">Material Design Demo</string>
-    <string name="nav_about">About</string>
-    <string name="nav_donate">Donations</string>
-    <string name="main_feedback_email">Feedback:MaterialDesignColor</string>
+    <string name="nav_explain">درباره رنگ ها</string>
+    <string name="nav_website">وب سایت رنگ های متریال</string>
+    <string name="nav_my_apps">برنامه های من</string>
+    <string name="nav_md">اسپیدی</string>
+    <string name="nav_about">درباره</string>
+    <string name="nav_donate">امتیاز</string>
+    <string name="main_feedback_email">ارسال ایمیل</string>
     <string name="main_not_found_email">Not found email app</string>
-    <string name="guide_swipe">Swipe to see more</string>
+    <string name="guide_swipe">برای دیدن موارد بیشتر سوایپ کنید</string>
 
-    <string name="nav_red">Red</string>
-    <string name="nav_pink">Pink</string>
-    <string name="nav_purple">Purple</string>
-    <string name="nav_deep_purple">Deep Purple</string>
-    <string name="nav_indigo">Indigo</string>
-    <string name="nav_blue">Blue</string>
-    <string name="nav_light_blue">Light Blue</string>
-    <string name="nav_cyan">Cyan</string>
-    <string name="nav_teal">Teal</string>
-    <string name="nav_green">Green</string>
-    <string name="nav_light_green">Light Green</string>
-    <string name="nav_lime">Lime</string>
-    <string name="nav_yellow">Yellow</string>
-    <string name="nav_amber">Amber</string>
-    <string name="nav_orange">Orange</string>
-    <string name="nav_deep_orange">Deep Orange</string>
-    <string name="nav_brown">Brown</string>
-    <string name="nav_grey">Grey</string>
-    <string name="nav_blue_grey">Blue Grey</string>
+    <string name="nav_red">قرمز</string>
+    <string name="nav_pink">صورتی</string>
+    <string name="nav_purple">بنفش</string>
+    <string name="nav_deep_purple">بنفش عمیق</string>
+    <string name="nav_indigo">آبی تیره</string>
+    <string name="nav_blue">آبی</string>
+    <string name="nav_light_blue">آبی روشن</string>
+    <string name="nav_cyan">فیروزه ای</string>
+    <string name="nav_teal">تیله</string>
+    <string name="nav_green">سبز</string>
+    <string name="nav_light_green">سبز روشن</string>
+    <string name="nav_lime">سبز چمنی</string>
+    <string name="nav_yellow">زرد</string>
+    <string name="nav_amber">کهربایی</string>
+    <string name="nav_orange">نارنجی</string>
+    <string name="nav_deep_orange">نارنجی تیره</string>
+    <string name="nav_brown">قهوه ای</string>
+    <string name="nav_grey">خاکستری</string>
+    <string name="nav_blue_grey">آبی خاکستری</string>
 
-    <string name="copy_before">Copied \"</string>
-    <string name="copy_after">\" to clipboard</string>
-    <string name="copy_guide">Long press to copy the color value to clipboard</string>
-    <string name="copy_ok">Got it</string>
+    <string name="copy_before">کپی شد \"</string>
+    <string name="copy_after">\" در کلیپ بورد</string>
+    <string name="copy_guide">برای کپی در کلیپ بورد آیتم را نگه دارید</string>
+    <string name="copy_ok">دریافت شد</string>
 
     <!-- String related to About Color -->
-    <string name="explain_color">Color</string>
-    <string name="explain_color_details">Color in material design is inspired by bold hues juxtaposed with muted environments, deep shadows, and bright highlights.</string>
-    <string name="explain_color_palette">Color Palette</string>
-    <string name="explain_color_palette_details">This color palette comprises primary and accent colors that can be used for illustration or to develop your brand colors.
-        They’ve been designed to work harmoniously with each other. The color palette starts with primary colors and fills in the spectrum to create a complete and usable palette for Android, Web, and iOS.
-        Google suggests using the 500 colors as the primary colors in your app and the other colors as accents colors.\n\nThemes enable consistent app styling through surface shades, shadow depth, and ink opacity.</string>
-    <string name="explain_btn">Material Color Website</string>
+    <string name="explain_color">رنگ</string>
+    <string name="explain_color_details">رنگ در طراحی مواد الهام گرفته از رنگ های جسورانه در کنار محیط های خاموش، سایه های عمیق و برجسته های روشن است.</string>
+    <string name="explain_color_palette">پالت رنگ</string>
+    <string name="explain_color_palette_details">این پالت رنگ شامل رنگ های اولیه و لهجه است که می تواند برای تصویر یا رنگ های نام تجاری خود استفاده شود.
+         آنها طراحی شده اند تا با یکدیگر هماهنگ شوند. پالت رنگ با رنگهای اولیه شروع می شود و طیف را پر می کند تا پالت کامل و قابل استفاده برای Android، Web و iOS را ایجاد کند.
+         گوگل پیشنهاد می کند که از 500 رنگ به عنوان رنگ اصلی در برنامه شما و رنگ های دیگر به عنوان رنگ های لهجه استفاده شود. \ n \ n تم ها سبد ظاهری برنامه را از طریق سایه های سطحی، عمق سایه و کدورت جوهر را فعال کنید.</string>
+    <string name="explain_btn">وب سایت رنگ های متریال</string>
 
     <!-- String related to About -->
-    <string name="title_activity_about">About</string>
-    <string name="about_version">Version: </string>
-    <string name="about_email_intent">About:MaterialDesignColor</string>
-    <string name="about_not_found_email">Not found email app</string>
-    <string name="about_card1_message">Hey, glad to see you!</string>
-    <string name="about_card2_title">If you liked the app, feel free to contact me.</string>
-    <string name="about_google_play">Rate on Google play</string>
-    <string name="about_email">Feedback by E-mail</string>
-    <string name="about_git_hub">Source code on GitHub</string>
+    <string name="title_activity_about">درباره</string>
+    <string name="about_version">نسخه: </string>
+    <string name="about_email_intent">درباره رنگ های متریال دیزاین</string>
+    <string name="about_not_found_email">برنامه رایانامه در دستگاه شما یافت نشد</string>
+    <string name="about_card1_message">سلام!خوشحالیم که از این برنامه استفاده می کنید.</string>
+    <string name="about_card2_title">اگر این برنامه مورد استفبال شما بود با ما در ارتباط باشید.</string>
+    <string name="about_google_play">امتیاز در بازار</string>
+    <string name="about_email">ارتباط از طریق رایانامه</string>
+    <string name="about_git_hub">سورس اصلی این برنامه در گیت هاب</string>
     <string name="about_address">Beijing, China</string>
-    <string name="web_view_menu">Open in browser</string>
-    <string name="about_source_licenses">Open source licenses</string>
-    <string name="share_with">Share with</string>
-    <string name="dialog_close">Close</string>
+    <string name="web_view_menu">باز کردن در مرورگر</string>
+    <string name="about_source_licenses">مجوز های متن باز</string>
+    <string name="share_with">اشتراک گذاری با...</string>
+    <string name="dialog_close">خروج</string>
 
     <!-- String related to Donate -->
-    <string name="activity_donate">Donations</string>
-    <string name="donate">Donate</string>
+    <string name="activity_donate"></string>
+    <string name="donate">کمک های مالی</string>
     <string name="donated">Donated</string>
     <string name="donate_title">I Would Be Very Grateful If You Could Donate Me ! </string>
     <string name="donate_title_after">Thanks For Your Donations, I Am Very Grateful ! </string>
